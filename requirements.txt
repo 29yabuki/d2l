@@ -1,5 +1,6 @@
-torch
-torchvision
+torch==2.0.0 
+torchvision==0.15.1
+d2l==1.0.3
 torchaudio
 numpy
 pandas
